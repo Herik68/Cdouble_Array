@@ -8,7 +8,7 @@ int main(){
 
     //Assign value from 0-99
     for(int num=0;num<100;num++){
-        c[num]=num;
+        c[num]=num+1;
     }
 
     //Print the result in 10 element per line

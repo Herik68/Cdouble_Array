@@ -7,7 +7,7 @@ int main(){
 
     //Assign all value to 0
     for(i=0;i<10;i++){
-        n[i]=0;
+        n[i]=1;
     }
 
     //Print result
